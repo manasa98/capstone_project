@@ -6,4 +6,4 @@ References/Learning material
 <br>https://www.youtube.com/watch?v=zp8clK9yCro
 <br>
 <br>Data:
-<br>can be obtained from https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge/data
+<br>https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge/data
